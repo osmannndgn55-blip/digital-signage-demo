@@ -1,0 +1,23 @@
+{
+  "device_code": "TV001",
+  "content_version": 1,
+  "asset": {
+    "type": "video",
+    "url": "https://raw.githubusercontent.com/osmannndgn55-blip/digital-signage-demo/main/videos/menu_v1.mp4",
+    "file_name": "menu_v1.mp4",
+    "file_size": 20744745,
+    "sha256": "25C3B3D524A3CF029D6B3D5D0416ADB02C8668447ECA23AACF26F85708C6B74F"
+  },
+  "screen": {
+    "orientation": "landscape",
+    "rotation": 0,
+    "fit_mode": "cover"
+  },
+  "playback": {
+    "loop": true,
+    "muted": true
+  },
+  "polling": {
+    "interval_seconds": 180
+  }
+}
