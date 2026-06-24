@@ -9,10 +9,11 @@
     "sha256": "25C3B3D524A3CF029D6B3D5D0416ADB02C8668447ECA23AACF26F85708C6B74F"
   },
   "screen": {
-    "orientation": "landscape",
-    "rotation": 0,
-    "fit_mode": "cover"
-  },
+  "orientation": "landscape",
+  "rotation": 0,
+  "fit_mode": "contain"
+},
+"content_version": 2
   "playback": {
     "loop": true,
     "muted": true
